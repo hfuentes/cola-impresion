@@ -1,2 +1,3 @@
 # cola-impresion
-Cola de impresión
+
+Proyecto para gestionar documentos que deben ser impresos mediante una cola de impresión.
