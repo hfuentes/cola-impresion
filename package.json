@@ -1,0 +1,22 @@
+{
+  "name": "cola-impresion",
+  "version": "1.0.0",
+  "description": "Proyecto cola de impresión 808",
+  "main": "server,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuentes/cola-impresion.git"
+  },
+  "author": "Héctor Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfuentes/cola-impresion/issues"
+  },
+  "homepage": "https://github.com/hfuentes/cola-impresion#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
